@@ -3,7 +3,7 @@
 Repository for the **approximate** CAD models I created for various parts from suppliers.
 
 Details and suppliers in the following posts:
-* Phone Scan Holder (photogrammetry):
+* Worm Gear Motor (12-24V for Garage & Gate Doors):
 
 Feel free to copy, remix, whatever (non-commercially)
 
