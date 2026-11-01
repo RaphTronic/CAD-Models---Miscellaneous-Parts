@@ -9,8 +9,11 @@ Feel free to copy, remix, whatever (non-commercially)
 
 Happy CADing to all !
 
+**895 Geared Motor**
+<img width="5259" height="1922" alt="895 specs" src="https://github.com/user-attachments/assets/f83ea765-b428-4bbb-9961-406f9ce174c0" />
+
 **775 Geared Motor**
-<img width="4299" height="1931" alt="775 specs" src="https://github.com/user-attachments/assets/03e32a16-b5fb-408c-8e9e-d90b4438153f" />
+<img width="5090" height="1931" alt="775 specs" src="https://github.com/user-attachments/assets/bb143d9f-e313-41f4-9ad8-2d87d16e4327" />
 
 **3420 Motor 12-24V 30W**
 <img width="5480" height="1493" alt="3420 DC 12-24V 30W motor all specs" src="https://github.com/user-attachments/assets/39da9e0d-d553-43b4-bd24-d50e00474c72" />
